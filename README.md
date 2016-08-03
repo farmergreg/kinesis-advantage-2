@@ -8,4 +8,4 @@ Please feel free to submit your custom layouts!
 ## Layouts I Intend to create when I receive my keyboard:
 - Colemak (Caps Lock == Backspace)
 - Colemak Vim Mod (Caps Lock == ESC)
-- Colemak Vim Mod + Programmers Mod (Swap curly braces and brackets)
+- Colemak Vim Mod + Greg's Programming Mod (Swap curly braces and brackets)
