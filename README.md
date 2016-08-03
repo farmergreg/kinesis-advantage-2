@@ -1,10 +1,11 @@
-# Kinesis Advantage 2
+# Kinesis Advantage 2 Custom Layouts
 Custom keyboard layouts for the Kinesis Advantage 2 keyboard.
 
-This repository is a placeholder until I receive my keyboard and start using it.
 Please feel free to submit your custom layouts!
+- Please place them in their own folder
+- Link to that folder from Readme.md
 
-## Layouts I Intend to create:
+## Layouts I Intend to create when I receive my keyboard:
 - Colemak (Caps Lock == Backspace)
 - Colemak Vim Mod (Caps Lock == ESC)
 - Colemak Vim Mod + Programmers Mod (Swap curly braces and brackets)
