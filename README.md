@@ -10,5 +10,8 @@ Please feel free to submit your custom layouts!
 - More Info: [https://colemak.com/](https://colemak.com/)
 
 # Productivity
+## General
+- [Map CAPS Lock > Backspace](productivity/general/caps-backspace.txt)
+
 ## Vim
 - Map CAPS Lock > ESC
