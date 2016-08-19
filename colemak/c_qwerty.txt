@@ -1,5 +1,4 @@
 *Colemak
-
 [T]>[G]
 [R]>[P]
 [E]>[F]
