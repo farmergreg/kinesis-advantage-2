@@ -14,4 +14,5 @@ Please feel free to submit your custom layouts!
 - [Map CAPS Lock > Backspace](productivity/general/caps-backspace.txt)
 
 ## Vim
-- Map CAPS Lock > ESC
+- [Map CAPS Lock > ESC](productivity/general/vim.txt)
+- [Map Arrow Keys to match J and K](productivity/general/vim.txt)
