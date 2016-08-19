@@ -1,0 +1,6 @@
+*VIM
+[caps]>[escape]
+
+*Make Up/Down arrows match j and k
+[up]>[down]
+[down]>[up]
