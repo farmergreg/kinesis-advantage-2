@@ -1,8 +1,8 @@
 # Kinesis Advantage 2 Custom Layouts
 Custom keyboard layouts for the Kinesis Advantage 2 keyboard.
 
-Please feel free to submit your custom layouts!
-- Please place them in their own folder
+Please feel free to submit your custom macros and layouts!
+- Please try to keep the folder structure well organized.
 - Link to that folder from [README.md](README.md) (this file)
 
 # Layouts
