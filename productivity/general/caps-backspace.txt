@@ -1,2 +1,3 @@
+* ===== Remap Caps-Lock to Backspace =====
 [caps]>[bspace]
 

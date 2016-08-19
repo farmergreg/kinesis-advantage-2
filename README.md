@@ -14,5 +14,9 @@ Please feel free to submit your custom layouts!
 - [Map CAPS Lock > Backspace](productivity/general/caps-backspace.txt)
 
 ## Vim
-- [Map CAPS Lock > ESC](productivity/vim/vim.txt)
 - [Map Arrow Keys to match J and K](productivity/vim/vim.txt)
+- [Map CAPS Lock > ESC](productivity/vim/vim.txt)
+
+## Programming
+- [Curly Braces without pressing SHIFT](productivity/programming/curly_brace_no_shift.txt)
+- [ReSharper Code Cleanup](productivity/programming/resharper.txt)

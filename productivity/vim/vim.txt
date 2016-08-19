@@ -1,6 +1,11 @@
-*VIM
+* ===== VIM =====
+
+* --- Remap Caps-Lock to ESC ---
 [caps]>[escape]
 
-*Make Up/Down arrows match j and k
+* --- Up / Down Arrow Fix ---
+* By default the up and down arrow keys are opposite of the VIM J/K movement.
+* This fixes that problem. You can also use your key cap puller to physically
+* swap the keys on your keyboard if you wish.
 [up]>[down]
 [down]>[up]
