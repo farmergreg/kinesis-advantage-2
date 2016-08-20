@@ -6,6 +6,7 @@
 * - Mount the Kinesis drive (progm + F1)
 * - Copy this file to the "active" folder on your Kinesis Advantage 2.
 * - Unmount the Kinesis drive (progm + F1)
+* - Press Progm + c to active the Colemak layout.
 [T]>[G]
 [R]>[P]
 [E]>[F]
