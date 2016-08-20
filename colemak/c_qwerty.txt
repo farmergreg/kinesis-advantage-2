@@ -1,4 +1,9 @@
-*Colemak
+* ===== Colemak =====
+* Installation:
+* - Enable Power User Mode (PUM) by pressing progm + shift + U.
+* - Mount the Kinesis drive (progm + F1)
+* - Copy this file to the "active" folder on your Kinesis Advantage 2.
+* - Unmount the Kinesis drive (progm + F1)
 [T]>[G]
 [R]>[P]
 [E]>[F]
