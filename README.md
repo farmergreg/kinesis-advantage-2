@@ -5,10 +5,10 @@ Please feel free to submit your custom macros and layouts!
 - Please try to keep the folder structure well organized.
 - Link to that folder from [README.md](README.md) (this file)
 
-# Layouts
+# Keyboard Layouts
 - [Colemak](colemak/c_qwerty.txt)
 
-# Productivity
+# Productivity Macros
 ## General
 - [Map CAPS Lock > Backspace](productivity/general/caps-backspace.txt)
 
