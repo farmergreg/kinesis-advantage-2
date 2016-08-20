@@ -1,4 +1,5 @@
 * ===== ReSharper Macros =====
+* Copy this into your layout's .txt file on your Kinesis Advantage 2:
 
 * Push left-crtl + Page Down to run Code Cleanup
 {lctrl}{pdown}>{-lctrl}{e}{+lctrl}{-lctrl}{c}{+lctrl}{tab}{tab}{enter}
