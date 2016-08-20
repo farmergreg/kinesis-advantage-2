@@ -2,8 +2,8 @@
 * This mod makes it nicer to work with programming
 * languages that use lots of curly {} braces.
 {obrack}>{speed9}{-lshift}{obrack}{+lshift}
-{cbrack}>{speed9}{-lshift}{cbrack}{+lshift}
 {lshift}{obrack}>{speed9}{obrack}
 {rshift}{obrack}>{speed9}{obrack}
+{cbrack}>{speed9}{-lshift}{cbrack}{+lshift}
 {lshift}{cbrack}>{speed9}{cbrack}
 {rshift}{cbrack}>{speed9}{cbrack}
