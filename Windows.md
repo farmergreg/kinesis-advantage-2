@@ -1,4 +1,4 @@
-#Windows 10
+#Windows 8/10
 
 There are a couple of potential “gotchas” with creating and direct editing hotkey layouts on 
 certain operating systems (e.g., Windows 8 and 10). Hopefully these issues will be addressed 
