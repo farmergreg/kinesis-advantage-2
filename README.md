@@ -17,7 +17,7 @@ Please feel free to submit your custom macros and layouts!
 - [Map CAPS Lock > ESC](productivity/vim/vim.txt)
 
 ## Programming
-- [Curly Braces without pressing SHIFT](productivity/programming/curly_brace_no_shift.txt)
+- [{Curly Braces} without pressing SHIFT](productivity/programming/curly_brace_no_shift.txt)
 - [ReSharper Code Cleanup](productivity/programming/resharper.txt)
 
 ## Gaming
