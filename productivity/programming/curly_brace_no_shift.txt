@@ -2,7 +2,6 @@
 * This mod makes it nicer to work with programming
 * languages that use lots of curly {} braces.
 
-* Copy this into your layout's .txt file on your Kinesis Advantage 2:
 {obrack}>{speed9}{-lshift}{obrack}{+lshift}
 {lshift}{obrack}>{speed9}{obrack}
 {rshift}{obrack}>{speed9}{obrack}
