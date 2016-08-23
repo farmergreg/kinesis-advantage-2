@@ -1,5 +1,4 @@
 * ===== VIM =====
-* Copy this into your layout's .txt file on your Kinesis Advantage 2:
 
 * --- Remap Caps-Lock to ESC ---
 [caps]>[escape]
