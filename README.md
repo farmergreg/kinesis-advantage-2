@@ -3,7 +3,7 @@ Keyboard layouts and macros for the Kinesis Advantage 2 keyboard.
 
 Please feel free to submit your custom macros and layouts!
 - Please try to keep the folder structure well organized.
-- Link to your keyboard layout or macro from [README.md](README.md) (this file)
+- Add a link to your keyboard layout or macro from [README.md](README.md) (this file)
 
 # Windows 8 / 10
 Before copying files to your keyboard, please [read this](windows.md) if you're running Windows 8 or 10.
