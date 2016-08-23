@@ -1,6 +1,7 @@
 * ===== Colemak =====
 * Learn more about Colemak here: https://colemak.com/
 
+[caps]>[bspace]
 [T]>[G]
 [R]>[P]
 [E]>[F]
@@ -8,7 +9,6 @@
 [F]>[T]
 [D]>[s]
 [S]>[r]
-[caps]>[bspace]
 [Y]>[J]
 [U]>[L]
 [I]>[U]
