@@ -5,6 +5,9 @@ Please feel free to submit your custom macros and layouts!
 - Please try to keep the folder structure well organized.
 - Link to that folder from [README.md](README.md) (this file)
 
+# Windows 8 / 10
+Before copying files to your keyboard, please [read this](windows.md) if you're running Windows 8 or 10.
+
 # Keyboard Layouts
 - [Colemak](colemak/c_qwerty.txt)
 
