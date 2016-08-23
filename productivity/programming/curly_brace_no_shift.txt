@@ -1,3 +1,6 @@
+* Copyright 2016 by Greg Dietsche. Licensed under the MIT License.
+* See LICENSE file in the project root for full license information.
+
 * ======= Swap the bracket and curly brace keys =====
 * This mod makes it nicer to work with programming
 * languages that use lots of curly {} braces.
