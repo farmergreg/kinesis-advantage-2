@@ -5,10 +5,10 @@ certain operating systems (e.g., Windows 8 and 10). Hopefully these issues will 
 in future firmware versions but for now, here are some guidelines when sharing custom layouts
 and macros:
 
-- You CANNOT just drag and drop a “foreign" .txt file on to the v-drive and rename it either
+1. You CANNOT just drag and drop a “foreign" .txt file on to the v-drive and rename it either
 Qwerty.txt, Dvorak.txt, or an appropriate hotkey layout name. The keyboard has to initially
 create all .txt layout files via the onboard programming shortcut (Program + F2).
-- Once the keyboard has created a new hotkey layout, that .txt file must be "conditioned" via
+2. Once the keyboard has created a new hotkey layout, that .txt file must be "conditioned" via
 any onboard programming command before it can be direct edited by accessing the v-drive. The
 simplest way to condition a new layout file is to just toggle thumb key modes immediately
 after creating it (the layout file to be condition must be active). Then you can access the
