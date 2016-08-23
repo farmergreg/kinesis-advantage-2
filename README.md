@@ -3,7 +3,7 @@ Keyboard layouts and macros for the Kinesis Advantage 2 keyboard.
 
 Please feel free to submit your custom macros and layouts!
 - Please try to keep the folder structure well organized.
-- Link to that folder from [README.md](README.md) (this file)
+- Link to your keyboard layout or macro from [README.md](README.md) (this file)
 
 # Windows 8 / 10
 Before copying files to your keyboard, please [read this](windows.md) if you're running Windows 8 or 10.
@@ -11,7 +11,7 @@ Before copying files to your keyboard, please [read this](windows.md) if you're 
 # Keyboard Layouts
 - [Colemak](colemak/c_qwerty.txt)
 
-# Productivity Macros
+# Macros
 ## General
 - [Map CAPS Lock > Backspace](productivity/general/caps-backspace.txt)
 
