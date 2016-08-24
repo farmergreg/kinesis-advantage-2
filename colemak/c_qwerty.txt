@@ -13,7 +13,8 @@
 * 4 ) Mount the 'KINESIS KB' Drive: progm + F1
 * 5 ) Copy c_qwerty.txt to the active folder. This will overwrite the file that is already there.
 *
-* NOTE: Step 3a / 3b work around a firmware bug in the keyboard. If you have a mac, then perform step 3b first.
+* NOTE: Step 3a / 3b work around a firmware bug in the keyboard. The workaround is simply that you need to switch
+* between thumb key modes. If you have a Mac, then perform step 3b before 3a.
 *
 [caps]>[bspace]
 [T]>[G]
