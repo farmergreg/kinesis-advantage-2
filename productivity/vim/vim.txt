@@ -1,12 +1,12 @@
+* ===== VIM =====
+*
 * Copyright 2016 by Greg Dietsche. Licensed under the MIT License.
 * See LICENSE file in the project root for full license information.
 
-* ===== VIM =====
-
-* --- Remap Caps-Lock to ESC ---
+* ----- Remap Caps-Lock to ESC -----
 [caps]>[escape]
 
-* --- Up / Down Arrow Fix ---
+* ----- Up / Down Arrow Fix -----
 * By default the up and down arrow keys are opposite of the VIM J/K movement.
 * This fixes that problem. You may also use your key cap puller to physically
 * swap the keys on your keyboard if you wish.
