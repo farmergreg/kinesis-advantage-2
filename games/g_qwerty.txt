@@ -1,0 +1,24 @@
+* =====  WASD Game Remapping =====
+*
+* Copyright 2016 by Greg Dietsche. Licensed under the MIT License.
+* See LICENSE file in the project root for full license information.
+*
+* Help wanted. This file could use better mappings for q,a,z and other common keys.
+*
+* ----- Simple WASD Remap by shifting each letter over one position -----
+* ROW 1: WERT
+[W]>[Q]
+[E]>[W]
+[R]>[E]
+[T]>[R]
+
+* ROW 2: SDFG
+[S]>[A]
+[D]>[S]
+[F]>[D]
+[G]>[F]
+
+* ----- Swap SPACE and BACKSPACE -----
+* Many games use SPACE for movements such as JUMP...
+[bspace]>[space]
+[space]>[bspace]
