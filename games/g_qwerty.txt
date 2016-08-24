@@ -8,13 +8,13 @@
 * it currently leaves alone. What makes sense to you?
 *
 * ----- Simple WASD Remap to ESDF by shifting each letter over one position -----
-* ROW 1: WER
-[W]>[Q]
+* ROW 1: WERT
+*[W]>[Q]
 [E]>[W]
 *[R]>[E]
 *[T]>[R]
 
-* ROW 2: SDF
+* ROW 2: SDFG
 [S]>[A]
 [D]>[S]
 [F]>[D]
