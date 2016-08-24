@@ -24,4 +24,4 @@ Before copying files to your keyboard, please [read this](windows.md) if you're 
 - [ReSharper Code Cleanup](productivity/programming/resharper.txt)
 
 ## Gaming
-  - [WASD shift right one position. Make ESDF is the new WASD!](games/g_qwerty.txt)
+  - [WASD shift right one position. ESDF is the new WASD!](games/g_qwerty.txt)
