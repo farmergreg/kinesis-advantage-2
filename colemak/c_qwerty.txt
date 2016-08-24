@@ -6,12 +6,12 @@
 * Learn more about Colemak here: https://colemak.com/
 *
 * INSTALLATION:
-* 1) Switch to QWERTY mode: progm + F3
-* 2) Create new layout file: progm + F2 c
+* 1 ) Switch to QWERTY mode: progm + F3
+* 2 ) Create new layout file: progm + F2 c
 * 3a) Switch to MAC mode: progm + F5
 * 3b) Switch to WIN mode: progm + F6
-* 4) Mount the 'KINESIS KB' Drive: progm + F1
-* 5) Copy c_qwerty.txt to the active folder. This will overwrite the file that is already there.
+* 4 ) Mount the 'KINESIS KB' Drive: progm + F1
+* 5 ) Copy c_qwerty.txt to the active folder. This will overwrite the file that is already there.
 *
 * NOTE: Step 3a / 3b work around a firmware bug in the keyboard. If you have a mac, then perform step 3b first.
 *
