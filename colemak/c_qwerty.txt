@@ -7,7 +7,7 @@
 *
 * INSTALLATION:
 * 1 ) Switch to QWERTY mode: progm + F3
-* 2 ) Create new layout file: progm + F2 c
+* 2 ) Create new layout file c_qwerty.txt: progm + F2 c
 * 3a) Switch to MAC mode: progm + F5
 * 3b) Switch to WIN mode: progm + F6
 * 4 ) Mount the 'KINESIS KB' Drive: progm + F1
