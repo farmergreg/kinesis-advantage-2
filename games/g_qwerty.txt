@@ -7,7 +7,7 @@
 * This file could use better remappings for the remaining keys which
 * it currently leaves alone. What makes sense to you?
 *
-* ----- Simple WASD Remap to ESDF by shifting each letter over one position -----
+* ----- Map WASD to ESDF -----
 * ROW 1: QWERT
 *[Q]>[Q]
 *[W]>[Q]
