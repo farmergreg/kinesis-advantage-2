@@ -10,6 +10,6 @@ create all .txt layout files via the onboard programming shortcut (Program + F2)
 2. Once the keyboard has created a new hotkey layout, that .txt file must be "conditioned" via
 any onboard programming command **before it can be direct edited** by accessing the v-drive. The
 simplest way to condition a new layout file is to just toggle thumb key modes immediately
-after creating it (the layout file to be condition must be active). Then you can access the
+after creating it (the layout file to be conditioned must be active). Then you can access the
 v-drive and direct-edit the hotkey layout file or cut and paste another person's remaps/macros
 as normal.
