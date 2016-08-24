@@ -3,20 +3,22 @@
 * Copyright 2016 by Greg Dietsche. Licensed under the MIT License.
 * See LICENSE file in the project root for full license information.
 *
-* Help wanted. This file could use better mappings for q,a,z and other common keys.
+* Help wanted.
+* This file could use better remappings for the remaining keys which
+* it currently leaves alone. What makes sense to you?
 *
-* ----- Simple WASD Remap by shifting each letter over one position -----
-* ROW 1: WERT
+* ----- Simple WASD Remap to ESDF by shifting each letter over one position -----
+* ROW 1: WER
 [W]>[Q]
 [E]>[W]
-[R]>[E]
-[T]>[R]
+* [R]>[E]
+* [T]>[R]
 
-* ROW 2: SDFG
+* ROW 2: SDF
 [S]>[A]
 [D]>[S]
 [F]>[D]
-[G]>[F]
+* [G]>[F]
 
 * ----- Swap SPACE and BACKSPACE -----
 * Many games use SPACE for movements such as JUMP...
