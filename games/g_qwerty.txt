@@ -11,14 +11,14 @@
 * ROW 1: WER
 [W]>[Q]
 [E]>[W]
-* [R]>[E]
-* [T]>[R]
+*[R]>[E]
+*[T]>[R]
 
 * ROW 2: SDF
 [S]>[A]
 [D]>[S]
 [F]>[D]
-* [G]>[F]
+*[G]>[F]
 
 * ----- Swap SPACE and BACKSPACE -----
 * Many games use SPACE for movements such as JUMP...
