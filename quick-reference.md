@@ -10,6 +10,6 @@
 | Power User Mode | progm+shift+esc  | Toggle On / Off
 | V Drive         | progm + F1       | Mount / Unmount V Drive (Power User Mode must be ON)
 | Status Report   | progm + esc      | Types a status report
-| Hard Reset      | ctrl+F9          | WARNING: Resets qwerty.txt and dvorak.txt; will not erase hotkey layouts
+| Hard Reset      | ctrl+F9          | Unplug keyboard, press and hold while plugging back in
 | New Layout      | progm+F2 X       | Where X is the hotkey
 | Activate Layout | progm+X          | Where X is the hotkey
