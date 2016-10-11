@@ -22,6 +22,7 @@
 * NOTE: Many users do not map caps lock to backspace because the backspace key is already in a great position
 *       on the Kinesis Advantage 2 keyboard. In particular, many Vim users remap caps lock to ESC and leave
 *       backspace in it's default location.
+*[caps]>[escape]
 [caps]>[bspace]
 *-----------------------------------------------------------------------------------------------------------------
 [T]>[G]
