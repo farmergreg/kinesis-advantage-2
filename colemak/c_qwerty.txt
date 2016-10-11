@@ -5,6 +5,7 @@
 *
 * Learn more about Colemak here: https://colemak.com/
 *
+*-----------------------------------------------------------------------------------------------------------------
 * INSTALLATION:
 * 1 ) Switch to QWERTY mode: progm+F3
 * 2 ) Create new layout file c_qwerty.txt: progm+F2 c
@@ -16,7 +17,12 @@
 * NOTE: Step 3a / 3b work around a firmware bug in the keyboard. The workaround is simply that you need to switch
 * between thumb key modes. If you have a Mac, then perform step 3b before 3a.
 *
+*-----------------------------------------------------------------------------------------------------------------
+*
+* NOTE: Many users do not map caps lock to backspace because the backspace key is already in a great position
+*       on the Kinesis Advantage 2 keyboard.
 [caps]>[bspace]
+*-----------------------------------------------------------------------------------------------------------------
 [T]>[G]
 [R]>[P]
 [E]>[F]
