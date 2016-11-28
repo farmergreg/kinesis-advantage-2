@@ -1,6 +1,6 @@
 * ===== Colemak =====
 *
-* Kinesis Advantage 2 Colemak Layout Copyright 2016 by Greg Dietsche.
+* Kinesis Advantage 2 Colemak Layout File Copyright 2016 by Greg Dietsche.
 * Licensed under the MIT License.
 * See LICENSE file in the project root for full license information.
 *
