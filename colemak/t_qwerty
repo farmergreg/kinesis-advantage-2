@@ -6,14 +6,25 @@
 * THIS IS A WORK IN PROGRESS *
 * THIS IS A WORK IN PROGRESS *
 
-* https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts
-
 * ===== Tarmak =====
 *
-* Copyright 2016 by Greg Dietsche. Licensed under the MIT License.
+* Kinesis Advantage 2 Tarmak Layout File Copyright 2016 by Greg Dietsche.
+* Licensed under the MIT License.
 * See LICENSE file in the project root for full license information.
 *
+* Colemak was created by Shai Coleman and is in the Public Domain.
+* The Tarmak was created by DreymaR
+*
 * Learn more about Colemak here: https://colemak.com/
+* Learn more about Tarmak  here: https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts
+*
+* The Tarmak layout was created to ease the transision from QWERTY to Colemak. It has five steps. Each step brings you
+* one step closer to touch typing using Colemak!
+*
+* The QWERTY layout was designed in the 19th century. Colemak is a modern alternative to the QWERTY and Dvorak layouts.
+* It is designed for efficient and ergonomic touch typing in English. Learning Colemak is a one-time investment that
+* will allow you to enjoy faster and pain-free typing for the rest of your life. Colemak is now the 3rd most popular
+* keyboard layout for touch typing in English, after QWERTY and Dvorak.
 *
 *-----------------------------------------------------------------------------------------------------------------
 * INSTALLATION:
@@ -33,7 +44,7 @@
 *       on the Kinesis Advantage 2 keyboard. In particular, many Vim users remap caps lock to ESC and leave
 *       backspace in it's default location.
 *[caps]>[escape]
-[caps]>[bspace]
+*[caps]>[bspace]
 *-----------------------------------------------------------------------------------------------------------------
 
 * Tarmak #1 (E)
