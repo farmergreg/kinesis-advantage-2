@@ -1,0 +1,82 @@
+* THIS IS A WORK IN PROGRESS *
+* THIS IS A WORK IN PROGRESS *
+* THIS IS A WORK IN PROGRESS *
+* THIS IS A WORK IN PROGRESS *
+* THIS IS A WORK IN PROGRESS *
+* THIS IS A WORK IN PROGRESS *
+* THIS IS A WORK IN PROGRESS *
+
+* https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts
+
+* ===== Tarmak =====
+*
+* Copyright 2016 by Greg Dietsche. Licensed under the MIT License.
+* See LICENSE file in the project root for full license information.
+*
+* Learn more about Colemak here: https://colemak.com/
+*
+*-----------------------------------------------------------------------------------------------------------------
+* INSTALLATION:
+* 1 ) Switch to QWERTY mode: progm+F3
+* 2 ) Create new layout file c_qwerty.txt: progm+F2 c
+* 3a) Switch to MAC mode: progm+F5
+* 3b) Switch to WIN mode: progm+F6
+* 4 ) Mount the 'KINESIS KB' Drive: progm+F1
+* 5 ) Copy c_qwerty.txt to the active folder. This will overwrite the file that is already there.
+*
+* NOTE: Step 3a / 3b work around a firmware bug in the keyboard. The workaround is simply that you need to switch
+* between thumb key modes. If you have a Mac, then perform step 3b before 3a.
+*
+*-----------------------------------------------------------------------------------------------------------------
+*
+* NOTE: Many users do not map caps lock to backspace because the backspace key is already in a great position
+*       on the Kinesis Advantage 2 keyboard. In particular, many Vim users remap caps lock to ESC and leave
+*       backspace in it's default location.
+*[caps]>[escape]
+[caps]>[bspace]
+*-----------------------------------------------------------------------------------------------------------------
+
+* Tarmak #1
+[E]>[F]
+[J]>[N]
+[K]>[E]
+[N]>[K]
+
+* Tarmak #2
+[T]>[J]
+[J]>[N]
+[K]>[E]
+[N]>[K]
+[F]>[T]
+[E]>[F]
+[T]>[G]
+
+* Tarmak #3
+[E]>[F]
+[T]>[G]
+[F]>[T]
+[G]>[J]
+[J]>[N]
+[K]>[E]
+[N]>[K]
+
+* Tarmak #4
+
+
+[T]>[G]
+[R]>[P]
+[E]>[F]
+[G]>[D]
+[F]>[T]
+[D]>[S]
+[S]>[R]
+[Y]>[J]
+[U]>[L]
+[I]>[U]
+[O]>[Y]
+[P]>[;]
+[J]>[N]
+[K]>[E]
+[L]>[I]
+[;]>[O]
+[N]>[K]
