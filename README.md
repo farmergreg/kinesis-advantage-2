@@ -10,7 +10,7 @@ Before copying files to your keyboard, please [read this](windows.md) if you're 
 
 # Keyboard Layouts
 - [Colemak](colemak/c_qwerty.txt)
-- [Tarmak] (colemak/t_qwerty.txt)
+- [Tarmak](colemak/t_qwerty.txt)
 
 # Macros
 ## General
