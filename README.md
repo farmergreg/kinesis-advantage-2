@@ -13,6 +13,10 @@ Before copying files to your keyboard, please [read this](windows.md) if you're 
 - [Tarmak](colemak/t_qwerty.txt)
 
 # Macros
+
+## Diareses (Umlauts) on German Windows
+- [Map LCTRL+A/O/U/S > Ä/Ö/Ü/ß](qwerty/w_qwerty.txt)
+
 ## General
 - [Map CAPS Lock > Backspace](productivity/general/caps-backspace.txt)
 

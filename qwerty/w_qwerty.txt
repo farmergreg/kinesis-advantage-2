@@ -1,0 +1,23 @@
+* =====  Windows Diareses macros =====
+*
+* Copyright 2017 by Markus Mayer.
+* Licensed under the MIT License.
+* See LICENSE file in the project root for full license information.
+*
+* Check https://superuser.com/a/604887/53942 to prevent clashes
+* with the language selector when pressing CTRL+SHIFT.
+
+* ae
+{lctrl}{a}>{speed9}{-lalt}{kp1}{kp3}{kp2}{+lalt}
+{lctrl}{lshift}{a}>{speed9}{-lalt}{kp1}{kp4}{kp2}{+lalt}
+
+* oe
+{lctrl}{o}>{speed9}{-lalt}{kp1}{kp4}{kp8}{+lalt}
+{lctrl}{lshift}{o}>{speed9}{-lalt}{kp1}{kp5}{kp3}{+lalt}
+
+* ue
+{lctrl}{u}>{speed9}{-lalt}{kp1}{kp2}{kp9}{+lalt}
+{lctrl}{lshift}{u}>{speed9}{-lalt}{kp1}{kp5}{kp4}{+lalt}
+
+* sz
+{lctrl}{s}>{speed9}{-lalt}{kp2}{kp2}{kp5}{+lalt}
