@@ -21,3 +21,7 @@
 
 * sz
 {lctrl}{s}>{speed9}{-lalt}{kp2}{kp2}{kp5}{+lalt}
+
+* fancy quotes
+{lctrl}{'}>{speed9}{-lalt}{kp0}{kp1}{kp3}{kp2}{+lalt}
+{lctrl}{lshift}{'}>{speed9}{-lalt}{kp0}{kp1}{kp4}{kp7}{+lalt}
