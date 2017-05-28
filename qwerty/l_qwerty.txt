@@ -1,0 +1,25 @@
+* =====  GTK+ Diaereses macros =====
+*
+* Copyright 2017 by Markus Mayer.
+* Licensed under the MIT License.
+* See LICENSE file in the project root for full license information.
+
+* ae
+{lctrl}{a}>{speed9}{-lctrl}{-lshift}{u}{+lshift}{+lctrl}{0}{0}{e}{4}{enter}
+{lctrl}{lshift}{a}>{speed9}{-lctrl}{-lshift}{u}{+lshift}{+lctrl}{0}{0}{c}{4}{enter}
+
+* oe
+{lctrl}{o}>{speed9}{-lctrl}{-lshift}{u}{+lshift}{+lctrl}{0}{0}{f}{6}{enter}
+{lctrl}{lshift}{o}>{speed9}{-lctrl}{-lshift}{u}{+lshift}{+lctrl}{0}{0}{d}{6}{enter}
+
+* ue
+{lctrl}{u}>{speed9}{-lctrl}{-lshift}{u}{+lshift}{+lctrl}{0}{0}{f}{c}{enter}
+{lctrl}{lshift}{u}>{speed9}{-lctrl}{-lshift}{u}{+lshift}{+lctrl}{0}{0}{d}{c}{enter}
+
+* sz
+{lctrl}{s}>{speed9}{-lctrl}{-lshift}{u}{+lshift}{+lctrl}{0}{0}{d}{f}{enter}
+
+* fancy quotes
+{lctrl}{'}>{speed9}{-lctrl}{-lshift}{u}{+lshift}{+lctrl}{2}{0}{1}{e}{enter}
+{lctrl}{lshift}{'}>{speed9}{-lctrl}{-lshift}{u}{+lshift}{+lctrl}{2}{0}{1}{c}{enter}
+
