@@ -1,0 +1,41 @@
+
+* Cmd keys as easiest to access from thumb
+[lctrl]>[lwin]
+[rctrl]>[rwin]
+[kp-lctrl]>[kp-lwin]
+[kp-rctrl]>[kp-rwin]
+
+* Alt keys symmetrical as top inner thumb keys
+[rwin]>[ralt]
+[kp-rwin]>[kp-ralt]
+
+* Unused key also as Alt. I don't use this much, could put something else here
+[intl-\]>[lalt]
+
+* Ctrl keys in tab key position and its symmetric
+[tab]>[lctrl]
+[/]>[rctrl]
+
+* Tab as easy to access thumb key
+[delete]>[tab]
+[\]>[hyphen]
+
+* `=` moves to the more traditional position of top right key on keyboard, and hyphen to the traditional dvorak position right of the home row
+[=]>[delete]
+[hyphen]>[=]
+[kp=]>[kp=mac]
+
+* Slashes move to thumb keys together. I don't use home or end so easy to give up
+[home]>[/]
+[end]>[\]
+
+* Footpedal
+[lp-tab]>[rctrl]
+
+* These change pup and pdown into next-tab and prev-tab respectively
+{pup}>{speed9}{-rwin}{-lshift}{obrack}{+lshift}{+rwin}
+{pdown}>{speed9}{-rwin}{-lshift}{cbrack}{+lshift}{+rwin}
+
+* Escape hatch if you actually need pup or pdown
+{lctrl}{pup}>{pup}
+{lctrl}{pdown}>{pdown}
