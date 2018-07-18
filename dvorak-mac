@@ -1,0 +1,19 @@
+[=]>[delete]
+[lp-tab]>[rctrl]
+[rp-kpent]>[lalt]
+[tab]>[rctrl]
+[scroll]>[shutdn]
+[hyphen]>[=]
+[home]>[/]
+[end]>[\]
+[/]>[kp-lctrl]
+[lctrl]>[lwin]
+[delete]>[tab]
+[rctrl]>[rwin]
+[\]>[hyphen]
+[rwin]>[ralt]
+* These change pup and pdown into next-tab and prev-tab respectively
+{pup}>{speed9}{-lwin}{-lshift}{obrack}{+lshift}{+lwin}
+{pdown}>{speed9}{-lwin}{-lshift}{cbrack}{+lshift}{+lwin}
+{lwin}{pup}>{speed9}{pup}
+{rwin}{pup}>{speed9}{pdown}
