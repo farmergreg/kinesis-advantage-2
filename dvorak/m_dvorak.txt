@@ -1,3 +1,8 @@
+* ===== Dvorak Mac =====
+*
+* Copyright 2018 by https://github.com/max-imlian
+* Licensed under the MIT License.
+* See LICENSE file in the project root for full license information.
 
 * Cmd keys as easiest to access from thumb
 [lctrl]>[lwin]
