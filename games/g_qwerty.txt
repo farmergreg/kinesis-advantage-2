@@ -7,6 +7,9 @@
 * This file could use better remappings for the remaining keys which
 * it currently leaves alone. What makes sense to you?
 *
+* IDEAS:
+* For your favorite games, you can record macros to quickly execute common sequences of commands.
+*
 * ----- Map WASD to ESDF -----
 * ROW 1: QWERT
 *[Q]>[Q]
