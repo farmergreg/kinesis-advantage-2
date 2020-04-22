@@ -12,3 +12,5 @@
 * swap the keys on your keyboard if you wish.
 [up]>[down]
 [down]>[up]
+{kp-up}>{kp-down}
+{kp-down}>{kp-up}
