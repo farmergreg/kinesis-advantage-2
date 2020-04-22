@@ -11,14 +11,14 @@
 * For your favorite games, you can record macros to quickly execute common sequences of commands.
 *
 * ----- Map WASD to ESDF -----
-* ROW 1: QWERT
+* ROW 1: QWERT => QWWRT
 *[Q]>[Q]
 *[W]>[Q]
 [E]>[W]
 *[R]>[E]
 *[T]>[R]
 
-* ROW 2: ASDFG
+* ROW 2: ASDFG => AASDG
 *[A]>[A]
 [S]>[A]
 [D]>[S]
