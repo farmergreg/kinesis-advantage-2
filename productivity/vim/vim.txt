@@ -3,8 +3,8 @@
 * Copyright 2016, 2020 by Greg Dietsche. Licensed under the MIT License.
 * See LICENSE file in the project root for full license information.
 
-* ----- Remap Caps-Lock to ESC -----
-[caps]>[escape]
+* ----- Remap Caps-Lock to ESC for short presses. Hold CAPS for 250ms to toggle caps-lock -----
+[caps]>[escape][t&h250][caps]
 
 * ----- Up / Down Arrow Fix -----
 * By default the up and down arrow keys are opposite of the VIM J/K movement.
