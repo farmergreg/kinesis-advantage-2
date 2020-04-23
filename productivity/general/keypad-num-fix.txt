@@ -1,0 +1,20 @@
+* Copyright 2020 by Greg Dietsche. Licensed under the MIT License.
+* See LICENSE file in the project root for full license information.
+
+* ===== Keypad Number Fix  =====
+* Some websites and software have a bug that makes them only work
+* with the number keys on the top row of a keyboard. This problem 
+* will happen with any keyboard; not just your Kinesis Advantage.
+* The keypad number keys have different scan codes than the
+* top row. The remappings below correct this problem by making all
+* number keys act as though they are top row number keys.
+[kp0]>[0]
+[kp1]>[1]
+[kp2]>[2]
+[kp3]>[3]
+[kp4]>[4]
+[kp5]>[5]
+[kp6]>[6]
+[kp7]>[7]
+[kp8]>[8]
+[kp9]>[9]
