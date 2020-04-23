@@ -6,7 +6,7 @@
 * with the number keys on the top row of a keyboard. This problem 
 * will happen with any keyboard; not just your Kinesis Advantage.
 * The keypad number keys have different scan codes than the
-* top row. The remappings below correct this problem by making all
+* top row. The remappings below "fix" this problem by making all
 * number keys act as though they are top row number keys.
 [kp0]>[0]
 [kp1]>[1]
