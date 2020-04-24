@@ -26,8 +26,8 @@
 * VIM - swap up and down arrow keys to match VIM's j/k motions.
 [up]>[down]
 [down]>[up]
-[kp-up]>[down]
-[kp-down]>[up]
+[kp-up]>[kp-down]
+[kp-down]>[kp-up]
 
 * Colemak
 * I had RSI very badly in 2012. Colemak *greatly* reduces the distance your fingers travel. An unbelievable number of words
