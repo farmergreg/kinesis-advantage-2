@@ -1,15 +1,3 @@
-* Fix for some buggy programs that I use that don't properly handle the keypad number keys.
-[kp0]>[0]
-[kp1]>[1]
-[kp2]>[2]
-[kp3]>[3]
-[kp4]>[4]
-[kp5]>[5]
-[kp6]>[6]
-[kp7]>[7]
-[kp8]>[8]
-[kp9]>[9]
-
 * [C|C#|javascript|golang). Or any other programming language that uses curly braces.
 * Swap [] and {} so that curly braces don't require pushing the shift key.
 * I set {speed4} for these macros to ensure it works with microsoft remote desktop sessions.
@@ -28,6 +16,18 @@
 [down]>[up]
 [kp-up]>[kp-down]
 [kp-down]>[kp-up]
+
+* Fix for some buggy programs that I use that don't properly handle the keypad number keys.
+[kp0]>[0]
+[kp1]>[1]
+[kp2]>[2]
+[kp3]>[3]
+[kp4]>[4]
+[kp5]>[5]
+[kp6]>[6]
+[kp7]>[7]
+[kp8]>[8]
+[kp9]>[9]
 
 * Colemak
 * I had RSI very badly in 2012. Colemak *greatly* reduces the distance your fingers travel. An unbelievable number of words
