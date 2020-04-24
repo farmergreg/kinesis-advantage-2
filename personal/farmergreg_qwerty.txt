@@ -12,7 +12,7 @@
 
 * [C|C#|javascript|golang). Or any other programming language that uses curly braces.
 * Swap [] and {} so that curly braces don't require pushing the shift key.
-* speed4 to ensure it works with microsoft remote desktop sessions.
+* I set {speed4} for these macros to ensure it works with microsoft remote desktop sessions.
 {obrack}>{speed4}{-lshift}{obrack}{+lshift}
 {lshift}{obrack}>{speed4}{obrack}
 {rshift}{obrack}>{speed4}{obrack}
