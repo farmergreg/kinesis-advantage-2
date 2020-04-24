@@ -29,7 +29,7 @@ Before copying files to your keyboard, please [read this](windows.md) if you're 
 - [Map CAPS Lock > ESC](productivity/vim/vim.txt)
 
 ## Personal
-  - View [other people's custom settings](personal) or and your own github-user_(qwerty|dvork).txt
+  - View [other people's custom settings](personal) or and your own github-user_(qwerty|dvorak).txt
 ## Programming
 - [{Curly Braces} without pressing SHIFT](productivity/programming/curly_brace_no_shift.txt)
 - [ReSharper Code Cleanup](productivity/programming/resharper.txt)
