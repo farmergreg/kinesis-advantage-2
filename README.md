@@ -22,7 +22,7 @@ Before copying files to your keyboard, please [read this](windows.md) if you're 
 
 ## General
 - [Map CAPS Lock > Backspace](productivity/general/caps-backspace.txt)
-- [Keypad Number Fix](productivity/general/keypad-num-fix.txt)
+- [Keypad Number Fix](productivity/general/keypd-fix.txt)
 
 ## Vim
 - [Map Arrow Keys to match J and K](productivity/vim/vim.txt)
