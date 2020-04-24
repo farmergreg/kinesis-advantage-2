@@ -1,14 +1,14 @@
 * Fix for some buggy programs that I use that don't properly handle the keypad number keys.
-[kp7]>[7]
-[kp8]>[8]
-[kp9]>[9]
-[kp4]>[4]
-[kp5]>[5]
-[kp6]>[6]
 [kp0]>[0]
 [kp1]>[1]
 [kp2]>[2]
 [kp3]>[3]
+[kp4]>[4]
+[kp5]>[5]
+[kp6]>[6]
+[kp7]>[7]
+[kp8]>[8]
+[kp9]>[9]
 
 * [C|C#|javascript|golang). Or any other programming language that uses curly braces.
 * Swap [] and {} so that curly braces don't require pushing the shift key.
