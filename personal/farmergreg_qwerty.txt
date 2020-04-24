@@ -1,3 +1,7 @@
+*
+* https://github.com/farmergreg
+*
+
 * [C|C#|javascript|golang). Or any other programming language that uses curly braces.
 * Swap [] and {} so that curly braces don't require pushing the shift key.
 * I set {speed4} for these macros to ensure it works with microsoft remote desktop sessions.
