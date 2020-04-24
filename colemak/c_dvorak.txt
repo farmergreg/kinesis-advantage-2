@@ -1,8 +1,5 @@
 * Dvorak to Colemak, so you can learn Colemak without from qwerty without having to overwrite its preset
 
-[rwin]>[ralt]
-[kp-rwin]>[kp-ralt]
-
 [']>[q]
 [,]>[w]
 [.]>[f]
