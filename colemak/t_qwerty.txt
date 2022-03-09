@@ -34,8 +34,10 @@
 *
 * NOTE: Many users do not map caps lock to backspace because the backspace key is already in a great position
 *       on the Kinesis Advantage 2 keyboard. In particular, many Vim users remap caps lock to ESC and leave
-*       backspace in it's default location.
-*[caps]>[escape]
+*       backspace in the default location. 
+* In this example: caps is remapped to escape unless it is held for more than 500ms:
+* [caps]>[escape][t&h500][caps]
+* in this example: caps simply becomes backspace:
 *[caps]>[bspace]
 *-----------------------------------------------------------------------------------------------------------------
 
