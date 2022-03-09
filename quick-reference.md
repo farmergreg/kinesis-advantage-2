@@ -13,3 +13,5 @@
 | Hard Reset      | progm + F9           | Unplug keyboard, press and hold while plugging back in. WARNING: This is not a full factory reset.
 | New Layout      | progm + F2 X         | Where X is the hotkey
 | Activate Layout | progm + X            | Where X is the hotkey
+| Key Clicks      | progm + F8           | Toggle clicking sound on/off
+| Macro Speed     | progm + F10 + 3      | Substitute "3" with 1 - 9. The default is three. Nine works well for most uses.
