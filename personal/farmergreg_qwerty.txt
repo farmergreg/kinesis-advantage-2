@@ -36,8 +36,9 @@
 * Colemak
 * I had RSI very badly in 2012 when I purchased a Kinesis Advantage and learned Colemak.
 * Colemak *greatly* reduces the distance your fingers travel. An unbelievable number of words
-* can be typed on the home row. I chose it over Dvorak for practical reasons; It keeps your ctrl-c/ctrl-v/ctrl-x and 
-* punctuation keys in the same location.
+* can be typed on the home row. I chose it over Dvorak for practical reasons.
+* Colemak keeps your ctrl-c/ctrl-v/ctrl-x and punctuation keys in the same (qwerty) location so
+* temporarily using a QWERTY keyboard is still relatively easy.
 *
 * If you're desperate enough to learn Colemak and already own a Kinesis Advantage, make sure you try out a vertical mouse too!
 * The vertical mouse helped me the most, followed by the Kinesis Advantage, followed by Colemak.
