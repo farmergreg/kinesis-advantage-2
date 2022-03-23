@@ -1,7 +1,7 @@
 #Windows 8/10
 
 There are a couple of potential “gotchas” with creating and direct editing hotkey layouts on 
-Windows 8 and 10. Hopefully these issues will be addressed in future firmware versions but
+Windows. Hopefully these issues will be addressed in future firmware versions but
 for now, here are some guidelines when sharing custom layouts and macros:
 
 1. You *CANNOT* just drag and drop a “foreign" .txt file on to the v-drive and rename it either
