@@ -1,4 +1,4 @@
-#Windows 8/10
+# Windows
 
 There are a couple of potential “gotchas” with creating and direct editing hotkey layouts on 
 Windows. Hopefully these issues will be addressed in future firmware versions but
