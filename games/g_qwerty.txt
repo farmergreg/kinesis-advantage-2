@@ -1,6 +1,6 @@
 * =====  WASD Game Remapping =====
 *
-* Copyright 2016 by Greg Dietsche. Licensed under the MIT License.
+* Copyright 2016, 2022 by Greg Dietsche. Licensed under the MIT License.
 * See LICENSE file in the project root for full license information.
 *
 * Help wanted.
@@ -10,20 +10,20 @@
 * IDEAS:
 * For your favorite games, you can record macros to quickly execute common sequences of commands.
 *
-* ----- Map WASD to ESDF -----
-* ROW 1: QWERT => QWWRT
-*[Q]>[Q]
-*[W]>[Q]
+* ----- WASD to ESDF -----
+* ROW 1: QWERT => TQWER
+[Q]>[T]
+[W]>[Q]
 [E]>[W]
-*[R]>[E]
-*[T]>[R]
+[R]>[E]
+[T]>[R]
 
-* ROW 2: ASDFG => AASDG
-*[A]>[A]
+* ROW 2: ASDFG => GASDF
+[A]>[G]
 [S]>[A]
 [D]>[S]
 [F]>[D]
-*[G]>[F]
+[G]>[F]
 
 * ----- Swap SPACE and BACKSPACE -----
 * Many games use SPACE for movements such as JUMP...
