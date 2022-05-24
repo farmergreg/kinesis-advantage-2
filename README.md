@@ -13,6 +13,8 @@ Before copying files to your keyboard, please [read this](windows.md) if you're 
 - [Tarmak](colemak/t_qwerty.txt)
 Default keys in Win mode
 ![image](https://user-images.githubusercontent.com/14280129/169934280-a70c3e4b-29c1-41bd-b98c-d33553065e98.png)
+Default keys in PC mode
+![image](https://user-images.githubusercontent.com/14280129/169934444-255ce35c-aebe-4593-b57a-eace17f1b2d7.png)
 
 # Macros
 Default keys in Mac mode
