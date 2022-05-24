@@ -11,8 +11,12 @@ Before copying files to your keyboard, please [read this](windows.md) if you're 
 # Keyboard Layouts
 - [Colemak](colemak/c_qwerty.txt)
 - [Tarmak](colemak/t_qwerty.txt)
+Default keys in Win mode
+![image](https://user-images.githubusercontent.com/14280129/169934280-a70c3e4b-29c1-41bd-b98c-d33553065e98.png)
 
 # Macros
+Default keys in Mac mode
+![image](https://user-images.githubusercontent.com/14280129/169934163-4b891c52-b6a3-4379-9c4d-431464b84099.png)
 
 ## Diaereses (Umlauts) on German Windows
 - [Map LCTRL+A/O/U/S > Ä/Ö/Ü/ß](qwerty/w_qwerty.txt)
