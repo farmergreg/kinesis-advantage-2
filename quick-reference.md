@@ -37,7 +37,8 @@ In the layout, keys are mapped from `[src]>[dest]` fashion (or in another word `
 [up]>[down]     ==> physical [Arrow Up] key is mapped to [Arrow Down] key
 ...
 ```
-Some common keys are:
+
+[Some common keys are](https://github.com/KinesisCorporation/Advantage2-SmartSet-App/blob/master/Common/u_const.pas):
 
 ### Mac
 ```
