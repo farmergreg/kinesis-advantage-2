@@ -55,9 +55,7 @@
 [n]>[k]
 
 * Colemak: keypd layer
-[kp-caps]>[escape][t&h500][caps]
 [kp-d]>[s]
-[kp-down]>[up]
 [kp-e]>[f]
 [kp-f]>[t]
 [kp-g]>[d]
@@ -65,7 +63,6 @@
 [kp-r]>[p]
 [kp-s]>[r]
 [kp-t]>[g]
-[kp-up]>[down]
 [kp-y]>[j]
 
 * Fix for some buggy programs that I use that don't properly handle the keypad number keys, but do accept normal top row number key presses.
