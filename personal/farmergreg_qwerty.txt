@@ -65,7 +65,7 @@
 [kp-t]>[g]
 [kp-y]>[j]
 
-* Fix for some buggy programs that I use that don't properly handle the keypad number keys, but do accept normal top row number key presses.
+* Fix for some buggy programs that I use which do not properly handle the keypad number keys, but do accept normal top row number key presses.
 [kp0]>[0]
 [kp1]>[1]
 [kp2]>[2]
