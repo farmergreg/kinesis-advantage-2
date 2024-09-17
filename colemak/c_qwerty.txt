@@ -52,3 +52,14 @@
 [L]>[I]
 [;]>[O]
 [N]>[K]
+
+* keypd layer
+[kp-e]>[f]
+[kp-r]>[p]
+[kp-t]>[g]
+[kp-y]>[j]
+[kp-s]>[r]
+[kp-d]>[s]
+[kp-f]>[t]
+[kp-g]>[d]
+[kp-n]>[k]
