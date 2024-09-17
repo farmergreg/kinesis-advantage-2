@@ -21,18 +21,6 @@
 [kp-up]>[kp-down]
 [kp-down]>[kp-up]
 
-* Fix for some buggy programs that I use that don't properly handle the keypad number keys.
-[kp0]>[0]
-[kp1]>[1]
-[kp2]>[2]
-[kp3]>[3]
-[kp4]>[4]
-[kp5]>[5]
-[kp6]>[6]
-[kp7]>[7]
-[kp8]>[8]
-[kp9]>[9]
-
 * Colemak
 * I had RSI very badly in 2012 when I purchased a Kinesis Advantage and learned Colemak.
 * Colemak *greatly* reduces the distance your fingers travel. An unbelievable number of words
@@ -43,6 +31,8 @@
 * If you're desperate enough to learn Colemak and already own a Kinesis Advantage, make sure you try out a vertical mouse too!
 * The vertical mouse helped me the most, followed by the Kinesis Advantage, followed by Colemak.
 *
+
+* Colemak: Normal Layer
 [e]>[f]
 [r]>[p]
 [t]>[g]
@@ -60,3 +50,29 @@
 [l]>[i]
 [;]>[o]
 [n]>[k]
+
+* Colemak: keypd layer
+[kp-caps]>[escape][t&h500][caps]
+[kp-d]>[s]
+[kp-down]>[up]
+[kp-e]>[f]
+[kp-f]>[t]
+[kp-g]>[d]
+[kp-n]>[k]
+[kp-r]>[p]
+[kp-s]>[r]
+[kp-t]>[g]
+[kp-up]>[down]
+[kp-y]>[j]
+
+* Fix for some buggy programs that I use that don't properly handle the keypad number keys, but do accept normal top row number key presses.
+[kp0]>[0]
+[kp1]>[1]
+[kp2]>[2]
+[kp3]>[3]
+[kp4]>[4]
+[kp5]>[5]
+[kp6]>[6]
+[kp7]>[7]
+[kp8]>[8]
+[kp9]>[9]
