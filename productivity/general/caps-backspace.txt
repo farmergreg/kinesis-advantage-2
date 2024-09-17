@@ -4,3 +4,4 @@
 * ===== Remap Caps-Lock to Backspace =====
 
 [caps]>[bspace]
+[kp-caps]>[bspace]
