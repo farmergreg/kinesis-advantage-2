@@ -3,7 +3,7 @@
 *
 
 * [C|C#|javascript|golang). Or any other programming language that uses curly braces.
-* Swap [] and {} so that curly braces don't require pushing the shift key.
+* Swap [] and {} so that curly braces don't require pressing the shift key.
 * I set {speed4} for these macros to ensure it works with microsoft remote desktop sessions.
 {obrack}>{speed4}{-lshift}{obrack}{+lshift}
 {lshift}{obrack}>{speed4}{obrack}
@@ -14,6 +14,7 @@
 
 * VIM - Make CAPS LOCK be ESC unless it is held for 500ms.
 [caps]>[escape][t&h500][caps]
+[kp-caps]>[escape][t&h500][caps]
 
 * VIM on Kinesis Advantage 2 Keyboard - swap up and down arrow keys to match VIM's qwerty j/k motions.
 [up]>[down]
@@ -23,10 +24,12 @@
 
 * Colemak
 * I had RSI very badly in 2012 when I purchased a Kinesis Advantage and learned Colemak.
-* Colemak *greatly* reduces the distance your fingers travel. An unbelievable number of words
-* can be typed on the home row. I chose it over Dvorak for practical reasons.
-* Colemak keeps your ctrl-c/ctrl-v/ctrl-x and punctuation keys in the same (qwerty) location so
-* temporarily using a QWERTY keyboard is still relatively easy.
+* Colemak *greatly* reduces the distance your fingers travel.
+* An unbelievable number of words can be typed on the home row.
+* I chose it over Dvorak for practical reasons.
+* Colemak keeps your ctrl-c/ctrl-v/ctrl-x and punctuation keys in the same (qwerty) location making temporary use of a QWERTY keyboard relatively easy. 
+* Dvorak makes typing `ls` is awkward.
+* Colemak makes typing `ls` easy.
 *
 * If you're desperate enough to learn Colemak and already own a Kinesis Advantage, make sure you try out a vertical mouse too!
 * The vertical mouse helped me the most, followed by the Kinesis Advantage, followed by Colemak.
