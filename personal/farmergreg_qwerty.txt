@@ -55,15 +55,15 @@
 [n]>[k]
 
 * Colemak: keypd layer
-[kp-d]>[s]
 [kp-e]>[f]
+[kp-r]>[p]
+[kp-t]>[g]
+[kp-y]>[j]
+[kp-s]>[r]
+[kp-d]>[s]
 [kp-f]>[t]
 [kp-g]>[d]
 [kp-n]>[k]
-[kp-r]>[p]
-[kp-s]>[r]
-[kp-t]>[g]
-[kp-y]>[j]
 
 * Fix for some buggy programs that I use which do not properly handle the keypad number keys, but do accept normal top row number key presses.
 [kp0]>[0]
