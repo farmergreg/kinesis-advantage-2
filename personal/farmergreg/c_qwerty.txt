@@ -6,7 +6,7 @@
 * An unbelievable number of words can be typed on the home row.
 * I chose it over Dvorak for practical reasons.
 * Colemak keeps your ctrl-c/ctrl-v/ctrl-x and punctuation keys in the same (qwerty) location making temporary use of a QWERTY keyboard relatively easy. 
-* Dvorak makes typing `ls` is awkward.
+* Dvorak makes typing `ls` awkward.
 * Colemak makes typing `ls` easy.
 *
 * If you're desperate enough to learn Colemak and already own a Kinesis Advantage, make sure you try out a vertical mouse too!
