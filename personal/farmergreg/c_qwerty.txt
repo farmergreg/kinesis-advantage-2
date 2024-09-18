@@ -1,5 +1,6 @@
 *
-* https://github.com/farmergreg
+* COLEMAK FarmerGreg Style
+* Activate by pressing: PRGM + C
 *
 
 * [C|C#|javascript|golang). Or any other programming language that uses curly braces.
