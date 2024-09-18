@@ -10,8 +10,9 @@
 * Dvorak makes typing `ls` awkward.
 * Colemak makes typing `ls` easy.
 *
-* If you're desperate enough to learn Colemak and already own a Kinesis Advantage, make sure you try out a vertical mouse too!
-* The vertical mouse helped me the most, followed by the Kinesis Advantage, followed by Colemak.
+* If you're desperate enough to learn Colemak and already own a Kinesis Advantage, make sure you try out a vertical mouse and/or a trackball too!
+* My Evoluent vertical mouse helped me the most, followed by the Kinesis Advantage, followed by Colemak.
+* I currently use a Logi M575 trackball.
 *
 
 * Colemak: Normal Layer
