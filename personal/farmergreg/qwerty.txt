@@ -1,13 +1,3 @@
-* CAPS Lock is ESC by default unless pressed for 500ms.
-[caps]>[escape][t&h500][caps]
-[kp-caps]>[escape][t&h500][caps]
-
-* Match vim/nvim finger locations.
-[up]>[down]
-[down]>[up]
-[kp-up]>[down]
-[kp-down]>[up]
-
 * [C|C#|javascript|golang). Or any other programming language that uses curly braces.
 * Swap [] and {} so that curly braces don't require pressing the shift key.
 * I set {speed4} for these macros to ensure it works with microsoft remote desktop sessions.
@@ -17,6 +7,16 @@
 {cbrack}>{speed4}{-lshift}{cbrack}{+lshift}
 {lshift}{cbrack}>{speed4}{cbrack}
 {rshift}{cbrack}>{speed4}{cbrack}
+
+* VIM - Make CAPS LOCK be ESC unless it is held for 500ms.
+[caps]>[escape][t&h500][caps]
+[kp-caps]>[escape][t&h500][caps]
+
+* VIM on Kinesis Advantage 2 Keyboard - swap up and down arrow keys to match VIM's qwerty j/k motions.
+[up]>[down]
+[down]>[up]
+[kp-up]>[kp-down]
+[kp-down]>[kp-up]
 
 * Fix for some buggy programs that I use which do not properly handle the keypad number keys, but do accept normal top row number key presses.
 * This does break some javascript games / apps that look for the kp keycodes...
