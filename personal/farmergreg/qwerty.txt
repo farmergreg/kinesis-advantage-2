@@ -1,11 +1,16 @@
+* CAPS Lock is ESC by default unless pressed for 500ms.
 [caps]>[escape][t&h500][caps]
 [kp-caps]>[escape][t&h500][caps]
 
+* Match vim/nvim finger locations.
 [up]>[down]
 [down]>[up]
 [kp-up]>[down]
 [kp-down]>[up]
 
+* [C|C#|javascript|golang). Or any other programming language that uses curly braces.
+* Swap [] and {} so that curly braces don't require pressing the shift key.
+* I set {speed4} for these macros to ensure it works with microsoft remote desktop sessions.
 {obrack}>{speed4}{-lshift}{obrack}{+lshift}
 {lshift}{obrack}>{speed4}{obrack}
 {rshift}{obrack}>{speed4}{obrack}
