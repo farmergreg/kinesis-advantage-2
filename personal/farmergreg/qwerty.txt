@@ -18,6 +18,8 @@
 {lshift}{cbrack}>{speed4}{cbrack}
 {rshift}{cbrack}>{speed4}{cbrack}
 
+* Fix for some buggy programs that I use which do not properly handle the keypad number keys, but do accept normal top row number key presses.
+* This does break some javascript games / apps that look for the kp keycodes...
 [kp0]>[0]
 [kp1]>[1]
 [kp2]>[2]
